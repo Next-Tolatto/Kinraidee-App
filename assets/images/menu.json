@@ -1,0 +1,23 @@
+[
+    {
+      "name": "Spaghetti Bolognese",
+      "image": "assets/images/spaghetti.jpg"
+    },
+    {
+      "name": "Chicken Alfredo",
+      "image": "assets/images/chicken_alfredo.jpg"
+    },
+    {
+      "name": "Hamburger",
+      "image": "assets/images/hamburger.jpg"
+    },
+    {
+      "name": "Pizza",
+      "image": "assets/images/pizza.jpg"
+    },
+    {
+      "name": "Sushi",
+      "image": "assets/images/sushi.jpg"
+    }
+  ]
+  

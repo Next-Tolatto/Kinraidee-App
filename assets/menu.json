@@ -1,0 +1,58 @@
+{
+  "foods": [
+    {
+      "name": "Spaghetti Carbonara",
+      "image": "https://www.edamam.com/web-img/e42/e42f9119813a6e0baf0840e917851cbd.jpg",
+      "description": "An Italian pasta dish from Rome made with egg, hard cheese, guanciale (cured pork cheek), and black pepper.",
+      "recipe": [
+        "Cook spaghetti according to package instructions.",
+        "Meanwhile, in a large skillet over medium heat, cook guanciale until crisp.",
+        "In a bowl, whisk together eggs, grated pecorino cheese, black pepper, and a pinch of salt.",
+        "Once spaghetti is cooked, add it to the skillet with the guanciale and remove from heat. Add the egg mixture and stir to combine. The residual heat from the spaghetti will cook the eggs.",
+        "Serve immediately, topped with additional grated pecorino cheese and black pepper."
+      ],
+      "ingredientList": [
+        "8 ounces spaghetti",
+        "4 ounces guanciale, diced",
+        "2 large eggs",
+        "1/2 cup grated pecorino cheese",
+        "Freshly ground black pepper",
+        "Salt"
+      ]
+    },
+    {
+      "name": "Chicken Tikka Masala",
+      "image": "https://www.edamam.com/web-img/96a/96a8477a61a2a46c7f98321b83a927f1.jpg",
+      "description": "A popular Indian dish consisting of marinated chicken in a spiced curry sauce.",
+      "recipe": [
+        "In a large bowl, combine yogurt, lemon juice, spices, and salt. Add chicken and stir to coat. Cover and refrigerate for at least 1 hour, up to 24 hours.",
+        "Preheat grill to medium-high. Thread chicken onto skewers and grill until charred and cooked through, 8 to 10 minutes per side.",
+        "Meanwhile, in a large saucepan over medium heat, cook onion and garlic until softened. Add tomato paste, garam masala, and cumin and cook until fragrant.",
+        "Add diced tomatoes and their juices and bring to a simmer. Cook until slightly thickened, 10 to 15 minutes.",
+        "Stir in heavy cream and cook until heated through.",
+        "Remove chicken from skewers and add to the sauce. Simmer for a few minutes to let the flavors meld.",
+        "Serve over basmati rice and top with cilantro."
+      ],
+      "ingredientList": [
+        "1/2 cup plain Greek yogurt",
+        "1 tablespoon lemon juice",
+        "1 tablespoon ground cumin",
+        "1 tablespoon paprika",
+        "1 tablespoon garam masala",
+        "1 teaspoon ground turmeric",
+        "1 teaspoon ground cinnamon",
+        "1/2 teaspoon cayenne pepper",
+        "1/2 teaspoon salt",
+        "1 1/2 pounds boneless, skinless chicken breasts, cut into bite-size pieces",
+        "1 onion, diced",
+        "2 cloves garlic, minced",
+        "1 tablespoon tomato paste",
+        "1 can (14 ounces) diced tomatoes",
+        "1/2 cup heavy cream",
+        "Cooked basmati rice, for serving",
+        "Chopped fresh cilantro, for serving"
+      ]
+    }
+  ]
+}
+   
